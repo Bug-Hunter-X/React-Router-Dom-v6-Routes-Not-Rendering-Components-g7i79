@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with React Router Dom v6 where routes fail to render components. The bug.js file shows the initial, incorrect implementation. The bugSolution.js file provides a corrected version demonstrating the solution.
